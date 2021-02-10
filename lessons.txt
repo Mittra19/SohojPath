@@ -1,0 +1,6 @@
+Packages for frontend:
+1. react-scroll-to-bottom
+2. react-emoji
+3. react-chat-engine
+4. @ant-design/icons
+5. axios 
